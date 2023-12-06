@@ -1,0 +1,41 @@
+-- Q 1. Total current world population (2022)
+
+-- Q 2. Total world population in each year
+
+-- Q 3. Which country has the highest population with a percentage contribution to the total population?
+
+-- Q 4. Which country has the lowest population with a percentage contribution in total population?
+
+-- Q 5. Retrieve the top 10 countries by population in 2022
+
+-- Q 6. Show the countries with the highest and lowest population densities in 2022
+
+-- Q 7. Find the countries where the population has decreased from 2015 to 2022 and show the percentage decrease as well.
+
+-- Q 8. Calculate the average population growth rate of countries between 2010 and 2022
+
+-- Q 9. Identify the countries with the highest and lowest population growth rates
+
+-- Q 10. Show the top 5 countries that had the highest population growth rate between 2000 and 2022
+
+-- Q 11. Determine the top 3 countries by area size and their respective population densities in 2022
+
+-- Q 12. Calculate the percentage contribution of each country to the world population in 2022
+
+-- Q 13. Find countries whose population in 2022 is greater than the average population of all countries in 2022
+ 
+-- Q 14. Show countries where the population in 2022 is less than the population in 2020
+
+-- Q 15. Find the country with the smallest population in 2022 compared to the average population in 2022
+ 
+-- Q 16. List countries with a population in 2022 that is higher than the average population growth rate of all countries between 2010 and 2022.
+
+-- Q 17. Retrieve the top 5 countries by population in 2022 within Europe.
+
+-- Q 18. Show countries where the population growth rate between 2010 and 2022 is above the global average growth rate for that period.
+
+
+
+
+
+
